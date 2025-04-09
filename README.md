@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sena Daşdemir</h1>
-<h3 align="center">A passionate developer & aspiring data scientist from Turkey</h3>
+<h3 align="center">A passionate software developer & aspiring data scientist</h3>
 
 - 🎓 I'm a newly graduated Computer Engineer with a passion for software development and data science.
 - 💼 I've worked at **BSH**, **TUSAŞ**, and joined AI projects with **TÜBİTAK** support.
 - 🌱 Currently learning: **Node.js**, **NestJS**, and **Cloud Computing**
-- 👨‍💻 All of my projects are available at [github.com/snadsdmr](https://github.com/snadsdmr)
 - 📫 How to reach me: **sena.dasdemir@outlook.com**
 
 ---
