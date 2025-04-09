@@ -4,8 +4,8 @@
 - 🎓 I'm a newly graduated Computer Engineer with a passion for software development and data science.
 - 💼 I've worked at **BSH**, **TUSAŞ**, and joined AI projects with **TÜBİTAK** support.
 - 🌱 Currently learning: **Node.js**, **NestJS**, and **Cloud Computing**
-- 👨‍💻 All of my projects are available at [github.com/senadasdemir](https://github.com/senadasdemir)
-- 📫 How to reach me: **senadasdemir@gmail.com**
+- 👨‍💻 All of my projects are available at [github.com/snadsdmr](https://github.com/snadsdmr)
+- 📫 How to reach me: **sena.dasdemir@outlook.com**
 
 ---
 
